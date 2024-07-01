@@ -1,7 +1,9 @@
 # TodoList Python
 
-Türkçe: Python konsol ekranında bir yapılacaklar listesi uygulaması tasarlanmış ve geliştirilmiştir. Uygulama, kullanıcıların görev ekleyip yönetmelerine olanak tanır. Aşağıda video link bulunmaktadır.
+**Türkçe:**
+Python konsolu için bir yapılacaklar listesi uygulaması tasarlanmış ve geliştirilmiştir. Bu uygulama, kullanıcıların görev eklemelerine ve yönetmelerine olanak tanır. Veritabanını, "Veri Tabanı" klasöründen indirip phpMyAdmin üzerinden içe aktarabilirsiniz. Aşağıda video bağlantısı bulunmaktadır.
 
-English: A to-do list application has been designed and developed for the Python console. The application allows users to add and manage tasks.Below is the video link.
+**English:**
+A to-do list application has been designed and developed for the Python console. This application allows users to add and manage tasks. You can download the database from the "Database" folder and import it using phpMyAdmin.
 
 [Video Link](https://www.youtube.com/watch?v=lbFFBBXnUmg)
